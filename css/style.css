@@ -174,7 +174,7 @@ canvas{
 }
 
 #intro a:hover{
-  border-bottom: 1px solid rgb(255, 255, 255);
+  border-bottom: 1px solid #13E8E9;
 }
 
 #intro i{
@@ -183,8 +183,8 @@ canvas{
 }
 
 #intro i:hover{
-  color: rgb(255, 255, 255);
-  /* color: rgb(7, 64, 105); */
+  /* color: rgb(255, 255, 255); */
+  color: #13E8E9;
 }
 
 h1::after {
